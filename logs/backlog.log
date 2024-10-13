@@ -1,0 +1,318 @@
+[main] 2024-04-22 19:51:56.644 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 19:53:15.315 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:01:09.213 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:07:09.842 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:08:36.004 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:10:34.046 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:12:42.165 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:13:32.053 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:14:43.462 INFO  - Driver hazırlanıyor..
+[main] 2024-04-22 20:14:48.601 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-04-22 20:14:49.185 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-04-22 20:14:50.470 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-04-22 20:14:51.708 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-12 11:10:36.548 INFO  - Driver hazırlanıyor..
+[main] 2024-10-12 11:10:41.419 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-12 11:10:42.128 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-12 11:10:43.393 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-12 11:10:45.142 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-12 11:53:34.932 INFO  - Driver hazırlanıyor..
+[main] 2024-10-12 11:53:38.584 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-12 11:53:39.158 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-12 11:53:40.428 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-12 11:53:42.781 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-12 11:55:32.719 INFO  - Driver hazırlanıyor..
+[main] 2024-10-12 11:55:36.386 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-12 11:55:36.992 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-12 11:55:38.259 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-12 11:55:39.468 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-12 11:55:48.513 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.516 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.520 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.523 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.526 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.530 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.533 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.536 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.540 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.543 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.546 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.550 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.553 INFO  - Saat kontrolü başarılı
+[main] 2024-10-12 11:55:48.654 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-12 11:56:29.858 INFO  - Driver hazırlanıyor..
+[main] 2024-10-12 11:56:33.589 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-12 11:56:34.176 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-12 11:56:35.436 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-12 11:56:36.636 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-12 11:56:37.882 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-12 11:56:46.048 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-12 11:56:46.155 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-12 21:45:37.521 INFO  - Driver hazırlanıyor..
+[main] 2024-10-12 21:47:04.127 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 13:36:49.887 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 13:36:53.945 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 13:36:54.552 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 13:36:55.813 INFO  - gidisİstanbul Sabiha Gökçseçildi
+[main] 2024-10-13 13:36:57.750 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 13:36:58.365 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 13:36:58.966 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 13:37:27.491 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 13:52:58.446 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 13:53:02.466 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 13:53:03.051 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 13:53:04.307 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 13:53:05.509 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 13:53:06.743 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 13:53:15.366 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.371 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.374 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.378 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.381 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.384 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.387 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.391 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.394 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.397 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.400 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.404 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.407 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.411 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.414 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.417 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.421 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.424 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 13:53:15.424 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 13:54:28.776 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 13:54:32.707 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 13:54:33.338 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 13:54:34.612 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 13:54:36.346 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 13:54:37.578 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 13:54:47.040 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 13:58:28.654 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 13:58:32.550 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 13:58:33.132 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 13:58:34.405 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 13:58:35.606 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 13:58:45.451 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:14:58.552 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:15:02.223 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:15:02.826 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:15:04.096 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:15:05.304 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:15:06.536 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 14:15:20.987 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:22:41.361 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:22:45.344 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:22:45.949 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:22:47.215 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:22:48.430 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:22:49.655 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 14:22:58.028 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:33:02.537 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:33:06.495 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:33:07.099 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:33:08.366 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:33:09.567 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:33:10.805 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 14:33:18.328 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:43:08.634 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:43:12.404 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:43:12.988 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:43:14.253 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:43:15.453 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:43:16.689 INFO  - Tarih seçerken bir hata oluştu
+[main] 2024-10-13 14:43:24.697 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:44:11.849 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:44:15.908 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:44:16.542 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:44:17.812 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:44:19.017 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:44:41.873 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 14:44:41.873 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:45:35.008 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:45:38.728 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:45:39.337 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:45:40.617 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:45:41.822 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:46:04.278 INFO  - Bilgileri tamamla sayfasına giriş başarılı
+[main] 2024-10-13 14:46:04.278 INFO  - Scenario finished : Enuygun- Case 3
+[main] 2024-10-13 14:47:39.956 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:47:43.678 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:47:55.302 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:47:58.946 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:47:59.530 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:48:00.794 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:48:01.996 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:48:20.092 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 14:48:20.093 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:48:49.463 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:48:53.106 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:48:53.679 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:48:54.925 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:48:56.159 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:49:11.490 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.494 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.497 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.500 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.504 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.507 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.510 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.514 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.517 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.520 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.523 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.527 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.530 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.533 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.537 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.541 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.544 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.547 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:49:11.548 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 14:49:11.552 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:49:12.211 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:49:12.775 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:49:13.983 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:49:15.181 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:49:31.660 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 14:49:31.660 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:49:31.662 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:49:32.851 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:49:33.404 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:49:34.613 INFO  - gidisİstanbul Sabiha Gökçenseçildi
+[main] 2024-10-13 14:49:35.803 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:50:48.632 INFO  - Scenario finished : Enuygun- Case 3
+[main] 2024-10-13 14:51:36.668 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:51:40.231 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:51:40.836 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:51:42.090 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:51:43.293 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:52:00.790 INFO  - Bilgileri tamamla sayfasına giriş başarılı
+[main] 2024-10-13 14:52:00.791 INFO  - Scenario finished : Enuygun- Case 3
+[main] 2024-10-13 14:53:58.263 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:54:01.878 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:54:02.545 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:54:03.795 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:54:04.999 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:54:16.269 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:54:16.274 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 14:54:16.278 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:54:17.467 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:54:18.009 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:54:19.212 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:54:20.406 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:54:32.505 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 14:54:32.506 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 14:54:32.508 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:54:33.354 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:54:33.928 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:54:35.128 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:54:36.323 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:57:00.261 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:57:03.985 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:57:04.557 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:57:05.813 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:57:07.020 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 14:57:19.005 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 14:57:19.010 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 14:57:19.015 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 14:57:20.420 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 14:57:20.962 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 14:57:22.166 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 14:57:23.368 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:03:00.324 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:03:03.886 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:03:04.459 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:03:05.711 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:03:06.909 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:03:17.620 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:03:17.625 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 15:03:17.629 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:03:18.513 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:03:19.082 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:03:20.281 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:03:21.480 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:03:33.628 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 15:03:33.628 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 15:03:33.632 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:03:34.508 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:03:35.081 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:03:36.281 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:03:37.476 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:06:24.664 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:06:28.189 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:06:28.794 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:06:30.048 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:06:31.266 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:06:42.621 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:06:42.626 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 15:07:21.113 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:07:24.869 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:07:25.442 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:07:26.699 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:07:27.903 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:07:39.507 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:40.014 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:40.519 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:41.024 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:41.534 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:42.043 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:42.547 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:43.057 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:43.567 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:44.076 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:44.585 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:45.095 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:45.604 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:46.112 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:46.619 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:47.128 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:47.635 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:48.145 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:07:48.159 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 15:10:45.947 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:10:49.908 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:10:50.479 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:10:51.723 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:10:52.926 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:11:04.548 INFO  - Fiyat sıralaması doğru.
+[main] 2024-10-13 15:11:04.549 INFO  - Scenario finished : Enuygun- Case 2
+[main] 2024-10-13 15:11:12.924 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:11:16.502 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:11:17.141 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:11:18.395 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:11:19.597 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:11:36.989 INFO  - Bilgileri tamamla sayfasına giriş başarılı
+[main] 2024-10-13 15:11:36.990 INFO  - Scenario finished : Enuygun- Case 3
+[main] 2024-10-13 15:11:47.208 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:11:51.163 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:11:51.742 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:11:53.000 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:11:54.205 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:12:06.763 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:07.272 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:07.780 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:08.286 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:08.795 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:09.300 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:09.809 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:10.317 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:10.825 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:11.334 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:11.843 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:12.350 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:12.860 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:13.365 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:13.872 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:14.376 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:14.886 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:15.395 INFO  - Saat kontrolü başarılı
+[main] 2024-10-13 15:12:15.409 INFO  - Scenario finished : Enuygun- Case 1
+[main] 2024-10-13 15:14:57.205 INFO  - Driver hazırlanıyor..
+[main] 2024-10-13 15:15:00.789 INFO  - Anasayfa basarili sekilde acildi
+[main] 2024-10-13 15:15:01.382 INFO  - Gidiş Dönüş checkbox'ı seçildi
+[main] 2024-10-13 15:15:02.625 INFO  - gidisİstanbul Tümüseçildi
+[main] 2024-10-13 15:15:03.824 INFO  - dönüşAnkara Esenboğa Havalimanıseçildi
+[main] 2024-10-13 15:15:14.167 INFO  - Scenario finished : Enuygun- Case 1
