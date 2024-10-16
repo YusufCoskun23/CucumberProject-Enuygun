@@ -33,8 +33,8 @@ public class DriverFactory {
 
     public void quitWebDriver() {
         if (null != driver) {
-            //driver.get().quit();
-            //driver.remove();
+            driver.get().quit();
+            driver.remove();
         }
     }
 
